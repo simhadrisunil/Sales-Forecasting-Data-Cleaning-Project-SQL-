@@ -1,0 +1,51 @@
+OrderID,DeliveryDate,CourierPartner,DeliveryStatus,DeliveryDelayDays
+OD001,,Delhivery,In Transit,7.0
+OD002,,Blue Dart,Delivered,
+OD003,04/22/2024,Blue Dart,In Transit,
+OD004,2024-03-20,DELHIVERY,Delayed,
+OD005,01/23/2024,EKART LOGISTICS,Delayed,8.0
+OD006,2024-01-24,Blue Dart,Delivered,
+OD007,03/24/2024,Delhivery,Delivered,-1.0
+OD008,03/24/2024,Ecom Express,Delayed,9.0
+OD009,2024-04-27,Ekart Logistics,In Transit,
+OD010,04/18/2024,EKART LOGISTICS,Delayed,
+OD011,2024-07-04,FedEx,Delivered,10.0
+OD012,2024-03-19,Ekart Logistics,Returned,
+OD013,2024-10-10,Blue Dart,Delayed,2.0
+OD014,05/30/2024,Blue Dart,Delayed,9.0
+OD015,2024-09-16,Delhivery, In Transit ,9.0
+OD016,2024-10-03,ekart logistics, Delayed ,0.0
+OD017,02/13/2024,Ecom Express,In Transit,5.0
+OD018,05/15/2024,Ecom Express,In Transit,
+OD019,08/12/2024,FEDEX,In Transit,-3.0
+OD020,2024-12-28,Blue Dart,Delivered,
+OD021,2024-04-19,Ecom Express,In Transit,
+OD022,2024-04-07,Ekart Logistics,Returned,8.0
+OD023,2024-12-10,Delhivery, Delivered ,
+OD024,03/12/2024,Ekart Logistics,Delivered,10.0
+OD025,2024-01-26,FEDEX,In Transit,-3.0
+OD026,2024-07-13,Delhivery, Returned ,
+OD027,2024-03-20,Blue Dart,Delivered,-3.0
+OD028,10/26/2024,ecom express,Delivered,-2.0
+OD029,2024-12-11,Ecom Express,Delivered,
+OD030,2024-05-13,Delhivery, Returned ,
+OD031,08/22/2024,blue dart, Delivered ,
+OD032,03/08/2024,FedEx,In Transit,
+OD033,2024-11-09,Ecom Express,Delivered,
+OD034,2024-02-29,FedEx,In Transit,
+OD035,09/15/2024,BLUE DART, Delayed ,2.0
+OD036,11/22/2024,Ekart Logistics,Returned,-2.0
+OD037,2024-12-19,Delhivery,In Transit,
+OD038,2024-07-05,FedEx,Delivered,
+OD039,2024-11-13,FedEx,In Transit,-3.0
+OD040,06/19/2024,FedEx,Delivered,
+OD041,2024-04-23,Ekart Logistics, In Transit ,7.0
+OD042,07/23/2024,Blue Dart,Delayed,
+OD043,12/13/2024,Blue Dart, Delayed ,1.0
+OD044,02/25/2024,Delhivery,Delivered,6.0
+OD045,2024-05-10,Blue Dart,In Transit,
+OD046,11/15/2024,Blue Dart,Delayed,
+OD047,06/16/2024,ECOM EXPRESS,Returned,
+OD048,2024-07-26,FedEx,Delayed,4.0
+OD049,09/18/2024,FedEx,Delayed,
+OD050,2024-02-17,FedEx, In Transit ,

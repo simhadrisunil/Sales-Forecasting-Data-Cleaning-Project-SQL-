@@ -1,0 +1,53 @@
+ProductID,ProductName,Category,Subcategory,CostPrice
+P001,Electronics Item 1,Electronics,Electronics Sub1,
+P002,Toys Item 2,Toys,Toys Sub1,708.46
+P003,Home Item 3,Home,Home Sub3,765.71
+P004,Electronics Item 4,Electronics,Electronics Sub1,784.68
+P005,Electronics Item 5,Electronics,Electronics Sub4,436.99
+P006,Home Item 6,Home,Home Sub4,260.61
+P007,Home Item 7,Home,Home Sub4,226.89
+P008,Toys Item 8,Toys,Toys Sub5,790.63
+P009,Electronics Item 9,Electronics,Electronics Sub5,272.56
+P010,Clothing Item 10,Clothing,Clothing Sub5,963.97
+P011,Electronics Item 11,Electronics,Electronics Sub2,
+P012,Toys Item 12,Toys,Toys Sub3,161.19
+P013,Electronics Item 13,Electronics,Electronics Sub3,306.27
+P014,Clothing Item 14,Clothing,Clothing Sub2,586.44
+P015,Clothing Item 15,Clothing,Clothing Sub2,317.22
+P016,Home Item 16,Home,Home Sub1,243.01
+P017,Home Item 17,Home,Home Sub3,408.61
+P018,Home Item 18,Home,Home Sub3,459.45
+P019,Home Item 19,Home,Home Sub1,500.55
+P020,Toys Item 20,Toys,Toys Sub5,730.6
+P021,Electronics Item 21,Electronics,Electronics Sub1,431.85
+P022,Home Item 22,Home,Home Sub4,
+P023,Home Item 23,Home,Home Sub4,672.86
+P024,Electronics Item 24,Electronics,Electronics Sub5,409.7
+P025,Clothing Item 25, clothing ,Clothing Sub3,
+P026,Clothing Item 26,Clothing,Clothing Sub5,279.7
+P027,Clothing Item 27,Clothing,Clothing Sub4,111.34
+P028,Electronics Item 28,Electronics,Electronics Sub4,914.82
+P029,Home Item 29, home ,Home Sub4,235.73
+P030,Electronics Item 30,Electronics,Electronics Sub2,457.04
+P031,Electronics Item 31,Electronics,Electronics Sub3,430.82
+P032,Toys Item 32,Toys,Toys Sub3,851.83
+P033,Clothing Item 33,Clothing,Clothing Sub2,987.07
+P034,Home Item 34, home ,Home Sub3,559.66
+P035,Clothing Item 35,Clothing,Clothing Sub2,224.97
+P036,Home Item 36,Home,Home Sub1,
+P037,Clothing Item 37,Clothing,Clothing Sub1,259.3
+P038,Home Item 38,Home,Home Sub2,867.24
+P039,Electronics Item 39,Electronics,Electronics Sub4,636
+P040,Home Item 40,Home,Home Sub4,540.6
+P041,Electronics Item 41,Electronics,Electronics Sub5,441.24
+P042,Toys Item 42,Toys,Toys Sub3,363.06
+P043,Home Item 43,Home,Home Sub4,639.27
+P044,Toys Item 44, toys ,Toys Sub2,801.55
+P045,Toys Item 45,Toys,Toys Sub5,623.72
+P046,Toys Item 46,Toys,Toys Sub4,778.75
+P047,Clothing Item 47,Clothing,Clothing Sub4,790.78
+P048,Clothing Item 48,Clothing,Clothing Sub3,594.29
+P049,Home Item 49,Home,Home Sub4,419.7
+P050,Toys Item 50,Toys,Toys Sub5,493.5
+P011,Electronics Item 11,Electronics,Electronics Sub2,
+P021,Electronics Item 21,Electronics,Electronics Sub1,431.85
